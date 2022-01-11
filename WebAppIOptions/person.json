@@ -1,3 +1,12 @@
 {
-
+  "age": 37,
+  "name": "Alexei",
+  "languages": [
+    "Russian",
+    "English", 
+    "Spanish" ],
+  "company": {
+    "title": "AGPZ",
+    "country": "Russia"
+  }
 }
